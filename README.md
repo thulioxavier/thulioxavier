@@ -1,17 +1,5 @@
 ### Olá pessoal 👋
 
-**camilafernanda2/camilafernanda2** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
-
-Aqui estão algumas idéias para você começar:
-
-- 🔭 Atualmente estou trabalhando em ...
-- 🌱 Atualmente estou aprendendo ...
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -22,7 +10,7 @@ Aqui estão algumas idéias para você começar:
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React Native](https://img.shields.io/badge/-React-Native-333333?style=flat&logo=react)
+  ![React Native](https://img.shields.io/badge/-React-333333?style=flat&logo=reactnative)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
