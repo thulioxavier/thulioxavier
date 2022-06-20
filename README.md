@@ -9,13 +9,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thulioxavier&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
+###
+  
 ![Snake animation](https://github.com/thulioxavier/thulioxavier/blob/output/github-contribution-grid-snake.svg)
 
-###
-
-<img href="https://raw.githubusercontent.com/thulioxavier/thulioxavier/blob/output/snake.svg" alt="Snake animation" />
-
-###
 ###
 
 <div align="left">
