@@ -11,7 +11,7 @@
   
 ###
   
-<img href="https://raw.githubusercontent.com/thulioxavier/thulioxavier/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/thulio/thulio/blob/output/snake.svg" alt="Snake animation" />
 
 
 ###
