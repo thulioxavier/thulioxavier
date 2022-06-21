@@ -11,7 +11,8 @@
   
 ###
   
-![Snake animation](https://github.com/thulioxavier/thulioxavier/blob/output/github-contribution-grid-snake.svg)
+<img href="https://raw.githubusercontent.com/thulioxavier/thulioxavier/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
