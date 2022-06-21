@@ -9,7 +9,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thulioxavier&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
-###
+<div>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thulioxavier&theme=dark" alt="thulioxavier" /></p>
+</div>
 
 ###
 
